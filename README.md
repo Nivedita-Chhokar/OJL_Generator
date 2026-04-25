@@ -1,4 +1,4 @@
-# OJL (Online Journal Log) Generator
+# OJL Generator
 
 Automates the process of generating daily internship logs and intelligently overlaying them onto a standardized PDF template. 
 
