@@ -42,3 +42,10 @@ Automates the process of generating daily internship logs and intelligently over
    python3 generate.py
    ```
    Your completed, formatted logs will be created as `output.pdf`.
+   
+
+# MOJ KARO 
+![ai_baby](https://media1.tenor.com/m/31KSghEQxPYAAAAd/baby-ai.gif)
+
+#
+### feel free to open issues and PRs :)
